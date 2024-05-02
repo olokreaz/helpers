@@ -77,3 +77,5 @@ uint8_t AisDemodulator::CRCCheck(uint16_t length)
 
 
 ```
+
+Царик Дмитрий Владимирович
