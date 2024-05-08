@@ -3,6 +3,7 @@
 [history-18v.pptx](https://disk.yandex.ru/i/Zou_NPs4mFSXoA)
 [history-18.pdf](https://disk.yandex.ru/i/ShnYZ_LmbZh_gw)
 
+[VDF home page  for plugins IDEA](https://plugins.jetbrains.com/plugin/22668-valve-data-format)
 
 [ITU-R M.1371-5](https://www.itu.int/dms_pubrec/itu-r/rec/m/R-REC-M.1371-5-201402-I!!PDF-R.pdf)
 
